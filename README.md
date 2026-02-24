@@ -1,5 +1,5 @@
 # 💳 AtliQo Bank Credit Card Launch  
-## Statistical EDA & A/B Testing for Business Decision Making
+## A complete statistical analysis and A/B testing framework applied to a real-world banking use case.
 
 ---
 
@@ -134,18 +134,25 @@ The findings support scaling the new credit card launch strategy based on statis
 ```
 AtliQo-Bank-Credit-Card-EDA/
 │
-├── Phase1_EDA.pdf
-├── Phase2_AB_Testing.pdf
-├── AtliQo_Notebook.ipynb
+├── notebooks/
+│   ├── phase1_eda.ipynb
+│   └── phase2_ab_testing.ipynb
+│
+├── pdf/
+│   ├── phase1_eda_report.pdf
+│   └── phase2_ab_testing_report.pdf
+│
 └── README.md
 ```
+## 📓 Notebooks
 
----
+- [Phase 1 – EDA Notebook](notebooks/atliqo_bank_phase1.ipynb)
+- [Phase 2 – A/B Testing Notebook](notebooks/atliqo_bank_phase2.ipynb)
 
-# 👨‍🎓 Academic Context
+## 📄 Project Reports (PDF)
 
-Developed as part of MSc Mathematics & Data Science coursework to apply statistical inference techniques in a real-world banking use case.
-
+- [Phase 1 – EDA Report](pdf/atliqo_bank-Phase1.pdf)
+- [Phase 2 – A/B Testing Report](pdf/atliqo_bank-Phase2.pdf)
 ---
 
 ⭐ If you found this project interesting, feel free to connect with me on LinkedIn and explore more data-driven projects!
