@@ -139,8 +139,8 @@ AtliQo-Bank-Credit-Card-EDA/
 │   └── phase2_ab_testing.ipynb
 │
 ├── pdf/
-│   ├── phase1_eda_report.pdf
-│   └── phase2_ab_testing_report.pdf
+│   ├── phase1_eda_pdf.pdf
+│   └── phase2_ab_testing_pdf.pdf
 │
 └── README.md
 ```
