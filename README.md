@@ -16,7 +16,7 @@ The project applies mathematical statistics concepts to make data-driven busines
 
 ---
 
-# 📊 Phase 1 – Customer & Credit Profile Analysis
+# 📊 Phase 1 Customer & Credit Profile Analysis
 
 ## 🎯 Objective  
 Identify the most suitable customer segment for the new credit card launch.
@@ -43,7 +43,7 @@ Identify the most suitable customer segment for the new credit card launch.
 
 ---
 
-# 🧪 Phase 2 – A/B Testing for Campaign Effectiveness
+# 🧪 Phase 2 A/B Testing for Campaign Effectiveness
 
 ## 🎯 Business Problem  
 Should AtliQo Bank fully roll out the new credit card campaign?
